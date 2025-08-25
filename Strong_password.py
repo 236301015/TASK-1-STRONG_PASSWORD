@@ -1,7 +1,6 @@
 import random
 import string
 from tkinter import *
-
 from tkinter import ttk
 
 all_character = ''
